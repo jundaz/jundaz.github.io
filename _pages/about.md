@@ -51,6 +51,7 @@ fluids” by Huang, L. etal.</div>
   <img src="../images/particles.png" width="250" height="170" />
 </p>
 
+<br/>
 <div>
 <div style="font-size:15pt"><strong>An approach toward human musculoskeletal system simulation</strong></div>
 </div>
