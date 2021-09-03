@@ -48,9 +48,11 @@ such as mass points, rod, and springs to represent bones and muscle.
 We also applied machine learning method for fast approximation of state 
 of the system</div>
 [Project Page](https://github.com/jundaz/simple_spring_model/)<br/>
-<img width="300" src="../images/twisted.gif"/>
-<img width="300" src="../images/stretch.gif"/>
-<img width="300" src="../images/shrunk.gif"/>
+<p float="left">
+  <img src="/shrunk.gif" width="100" />
+  <img src="/stretch.gif" width="100" /> 
+  <img src="/twisted.gif" width="100" />
+</p>
 
 <br/>
 
