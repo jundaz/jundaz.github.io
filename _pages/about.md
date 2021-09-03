@@ -47,7 +47,7 @@ simulate such unit. The model will be based on very simple objects
 such as mass points, rod, and springs to represent bones and muscle.
 We also applied machine learning method for fast approximation of state 
 of the system</div>
-[Project Page](https://github.com/jundaz/simple_spring_model)
+[Project Page](https://github.com/jundaz/simple_spring_model/)
 <img width="300" src="../images/twisted.gif"/>
 
 <br/>
