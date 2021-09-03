@@ -44,7 +44,10 @@ if we start on something simple such as a basic unit of bones and muscle
 and build the more complex system based on this unit? This project aims 
 to build very simple and basic unit of a Musculoskeletal system and 
 simulate such unit. The model will be based on very simple objects 
-such as mass points, rod, and springs to represent bones and muscle.</div>
+such as mass points, rod, and springs to represent bones and muscle.
+We also applied machine learning method for fast approximation of state 
+of the system</div>
+[Project Page](https://github.com/jundaz/simple_spring_model)
 <img width="300" src="../images/twisted.gif"/>
 
 <br/>
