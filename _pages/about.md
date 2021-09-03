@@ -13,7 +13,7 @@ About me
 
 Hi! I'm a senior undergraduate student at the University of Toronto, majoring in Computer Science and Mathematics.
 
-I’m broadly interested in geometry processing, physics-based animation, computer vision and machine learning application in those 3 fields/
+I’m broadly interested in geometry processing, physics-based animation, computer vision and machine learning application in those 3 fields.
 
 During the third year in undergraduate study I have made a publication related to k-means algorithm. In later years I have worked with Prof. [David Levin](http://142.93.146.228/researchdb/) on projects in field of physics-based animation and Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) on projects in field of geometry processing
 
@@ -21,7 +21,7 @@ During the third year in undergraduate study I have made a publication related t
 
 Publications
 ======
-
+<img width="175" align="left" src="../images/cluster.png"/>
 &nbsp; __A New Fuzzy Belonging-based Multi-view K-means Clustering Algorithm__<br/>
 &nbsp;  __Junda Zhao__, Weiling Cai, Yizhen Ge, Lijuan Zhang<br/>
 &nbsp;  *IEEE 10th IEMCON 2019*<br/>
@@ -45,7 +45,7 @@ and build the more complex system based on this unit? This project aims
 to build very simple and basic unit of a Musculoskeletal system and 
 simulate such unit. The model will be based on very simple objects 
 such as mass points, rod, and springs to represent bones and muscle.</div>
-<img width="100%" src="../images/bb-bunny.jpg"/>
+<img width="50" src="../images/twisted.gif"/>
 
 <br/>
 
