@@ -46,7 +46,7 @@ fluids” by Huang, L. etal.</div>
 
 [Project Page](https://github.com/jundaz/Accurate-Large-Scale-Ferrofluids/)<br/>
 <p float="left">
-  <img src="../images/ferrofuild.png" width="250" height="170" />
+  <img src="../images/ferrofluid.png" width="250" height="170" />
   <img src="../images/magneticline.png" width="250" height="170" /> 
   <img src="../images/particles.png" width="250" height="170" />
 </p>
