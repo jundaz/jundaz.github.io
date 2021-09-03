@@ -34,10 +34,27 @@ Publications
 Selected Projects
 ======
 <div>
+<div style="font-size:15pt"><strong>Accurate Large Scale Ferrofluids Simulation</strong></div>
+</div>
+<div style="font-size:12pt"> Ferrofluid has a lot of interesting appearance when placed under a magnetic 
+field. The most significant one is the formation of complex spikes. This 
+shape is usually hard to create by artist in animation. Despite the use in 
+art, ferrofluid can be used in a variety of engineering area due to its 
+physical properties. This project provides a implementation of ferrorfluid
+simulation based on paper “On the Accurate Large-scale Simulation of Ferro-
+fluids” by Huang, L. etal.</div>
+
+[Project Page](https://github.com/jundaz/Accurate-Large-Scale-Ferrofluids/)<br/>
+<p float="left">
+  <img src="../images/ferrofuild.png" width="250" height="170" />
+  <img src="../images/magneticline.png" width="250" height="170" /> 
+  <img src="../images/particles.png" width="250" height="170" />
+</p>
+
+<div>
 <div style="font-size:15pt"><strong>An approach toward human musculoskeletal system simulation</strong></div>
 </div>
-<div style="font-size:12pt"> 
-Human musculoskeletal system is a complicated system and is affected 
+<div style="font-size:12pt"> Human musculoskeletal system is a complicated system and is affected 
 by many factors such as muscle strength, bone stiffness, mass, etc. 
 To simulate such system as a whole is very complicated, so is it possible 
 if we start on something simple such as a basic unit of bones and muscle 
