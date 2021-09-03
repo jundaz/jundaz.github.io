@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-Hello there! I'm a senior undergraduate student at the University of Toronto, majoring in Computer Science and Mathematics, I will be graduating Fall 2021.
+Currently, I'm a senior undergraduate student at the University of Toronto, majoring in Computer Science and Mathematics, I will be graduating Fall 2021.
 
 I’m broadly interested in geometry processing, physics-based animation, computer vision and machine learning application in those 3 fields.
 
