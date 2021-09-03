@@ -34,7 +34,7 @@ Publications
 Selected Projects
 ======
 <div>
-<div style="font-size:12pt"><strong>An approach toward human musculoskeletal system simulation</strong></div>
+<div style="font-size:15pt"><strong>An approach toward human musculoskeletal system simulation</strong></div>
 </div>
 <div style="font-size:10pt"> 
 Human musculoskeletal system is a complicated system and is affected 
