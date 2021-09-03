@@ -49,9 +49,9 @@ We also applied machine learning method for fast approximation of state
 of the system</div>
 [Project Page](https://github.com/jundaz/simple_spring_model/)<br/>
 <p float="left">
-  <img src="../images/shrunk.gif" width="100" />
-  <img src="../images/stretch.gif" width="100" /> 
-  <img src="../images/twisted.gif" width="100" />
+  <img src="../images/shrunk.gif" width="250" />
+  <img src="../images/stretch.gif" width="250" /> 
+  <img src="../images/twisted.gif" width="250" />
 </p>
 
 <br/>
