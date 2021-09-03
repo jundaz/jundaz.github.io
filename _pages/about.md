@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-Hi! I'm a senior undergraduate student at the University of Toronto, majoring in Computer Science and Mathematics.
+Hi! I'm a senior undergraduate student at the University of Toronto, majoring in Computer Science and Mathematics, I will be graduating Fall 2021.
 
 I’m broadly interested in geometry processing, physics-based animation, computer vision and machine learning application in those 3 fields.
 
@@ -36,7 +36,7 @@ Selected Projects
 <div>
 <div style="font-size:15pt"><strong>An approach toward human musculoskeletal system simulation</strong></div>
 </div>
-<div style="font-size:10pt"> 
+<div style="font-size:12pt"> 
 Human musculoskeletal system is a complicated system and is affected 
 by many factors such as muscle strength, bone stiffness, mass, etc. 
 To simulate such system as a whole is very complicated, so is it possible 
