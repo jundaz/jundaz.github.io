@@ -36,11 +36,11 @@ Selected Projects
 <div>
 <div style="font-size:15pt"><strong>Texture transfer based on neural implicit representation</strong></div>
 </div>
-<div style="font-size:12pt"> Tran</div> Texture synthesize and transfer has been a popular topic
+<div style="font-size:12pt">Texture synthesize and transfer has been a popular topic
 in recent years, this projects aims to develop a novel method of texture 
 synthesis and transfer based on a neural implicit representation of arbitrary 
 object and provide a robust tool that would allow transfering such object as 
-texture to arbitrary target surface.</div>
+texture to arbitrary target surface. </div> 
 [Project Page](https://github.com/jundaz/simple_neural_texture/)<br/>
 <p float="left">
   <img src="../images/beetles_spike.png" width="400"/>
