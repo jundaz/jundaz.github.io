@@ -11,11 +11,11 @@ redirect_from:
 About me
 ======
 
-Currently, I'm a senior undergraduate student at the University of Toronto, majoring in Computer Science and Mathematics, I will be graduating Fall 2021.
+Currently, I'm a senior undergraduate student at the University of Toronto, majoring in Computer Science, I will be graduating Fall 2021.
 
 I’m broadly interested in geometry processing, physics-based animation, computer vision and machine learning application in those 3 fields.
 
-During the third year in undergraduate study I have made a publication related to k-means algorithm. In later years I have worked with Prof. [David Levin](http://142.93.146.228/researchdb/) on projects in field of physics-based animation and Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) on projects in field of geometry processing
+During the third year in undergraduate study I have made a publication related to k-means algorithm. In later years I have worked with Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) on projects in field of geometry processing and Prof. [David Levin](http://142.93.146.228/researchdb/) on projects in field of physics-based animation.
 
 <br/>
 
@@ -34,21 +34,17 @@ Publications
 Selected Projects
 ======
 <div>
-<div style="font-size:15pt"><strong>Accurate Large Scale Ferrofluids Simulation</strong></div>
+<div style="font-size:15pt"><strong>Texture transfer based on neural implicit representation</strong></div>
 </div>
-<div style="font-size:12pt"> Ferrofluid has a lot of interesting appearance when placed under a magnetic 
-field. The most significant one is the formation of complex spikes. This 
-shape is usually hard to create by artist in animation. Despite the use in 
-art, ferrofluid can be used in a variety of engineering area due to its 
-physical properties. This project provides a implementation of ferrorfluid
-simulation based on paper “On the Accurate Large-scale Simulation of Ferro-
-fluids” by Huang, L. etal.</div>
-
-[Project Page](https://github.com/jundaz/Accurate-Large-Scale-Ferrofluids/)<br/>
+<div style="font-size:12pt"> Tran</div> Texture synthesize and transfer has been a popular topic
+in recent years, this projects aims to develop a novel method of texture 
+synthesis and transfer based on a neural implicit representation of arbitrary 
+object and provide a robust tool that would allow transfering such object as 
+texture to arbitrary target surface
+[Project Page](https://github.com/jundaz/simple_neural_texture/)<br/>
 <p float="left">
-  <img src="../images/ferrofluid.png" width="250" height="170" />
-  <img src="../images/magneticline.png" width="250" height="170" /> 
-  <img src="../images/particles.png" width="250" height="170" />
+  <img src="../images/beetles_spike_.png" width="400"/>
+  <img src="../images/beetles_rabbit.png" width="400" /> 
 </p>
 
 <br/>
@@ -73,7 +69,25 @@ of the system</div>
 </p>
 
 <br/>
+<div>
+<div style="font-size:15pt"><strong>Accurate Large Scale Ferrofluids Simulation</strong></div>
+</div>
+<div style="font-size:12pt"> Ferrofluid has a lot of interesting appearance when placed under a magnetic 
+field. The most significant one is the formation of complex spikes. This 
+shape is usually hard to create by artist in animation. Despite the use in 
+art, ferrofluid can be used in a variety of engineering area due to its 
+physical properties. This project provides a implementation of ferrorfluid
+simulation based on paper “On the Accurate Large-scale Simulation of Ferro-
+fluids” by Huang, L. etal.</div>
 
+[Project Page](https://github.com/jundaz/Accurate-Large-Scale-Ferrofluids/)<br/>
+<p float="left">
+  <img src="../images/ferrofluid.png" width="250" height="170" />
+  <img src="../images/magneticline.png" width="250" height="170" /> 
+  <img src="../images/particles.png" width="250" height="170" />
+</p>
+
+<br/>
 Contact
 ======
 junda.zhao (at) mail.utoronto.ca
