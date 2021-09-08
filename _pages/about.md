@@ -40,7 +40,7 @@ Selected Projects
 in recent years, this projects aims to develop a novel method of texture 
 synthesis and transfer based on a neural implicit representation of arbitrary 
 object and provide a robust tool that would allow transfering such object as 
-texture to arbitrary target surface
+texture to arbitrary target surface.</div>
 [Project Page](https://github.com/jundaz/simple_neural_texture/)<br/>
 <p float="left">
   <img src="../images/beetles_spike.png" width="400"/>
@@ -60,7 +60,7 @@ to build very simple and basic unit of a Musculoskeletal system and
 simulate such unit. The model will be based on very simple objects 
 such as mass points, rod, and springs to represent bones and muscle.
 We also applied machine learning method for fast approximation of state 
-of the system</div>
+of the system.</div>
 [Project Page](https://github.com/jundaz/simple_spring_model/)<br/>
 <p float="left">
   <img src="../images/shrunk.gif" width="250" />
