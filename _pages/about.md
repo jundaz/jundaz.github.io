@@ -102,8 +102,8 @@ achieve comparable result with higher efficiency. </div>
 
 [Project Page](https://github.com/jundaz/Anime-art-style-picture-super-resolution-using-CNN/)<br/>
 <p float="left">
-  <img src="../images/ferrofluid.png" width="300"/>
-  <img src="../images/magneticline.png" width="300"/> 
+  <img src="../images/quality_50.png" width="300"/>
+  <img src="../images/quality_95.png" width="300"/> 
 </p>
 
 <br/>
