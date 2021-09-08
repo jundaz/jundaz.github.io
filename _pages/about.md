@@ -43,7 +43,7 @@ object and provide a robust tool that would allow transfering such object as
 texture to arbitrary target surface
 [Project Page](https://github.com/jundaz/simple_neural_texture/)<br/>
 <p float="left">
-  <img src="../images/beetles_spike_.png" width="400"/>
+  <img src="../images/beetles_spike.png" width="400"/>
   <img src="../images/beetles_rabbit.png" width="400" /> 
 </p>
 
