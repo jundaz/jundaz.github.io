@@ -34,7 +34,7 @@ Publications
 Selected Projects
 ======
 <div>
-<div style="font-size:15pt"><strong>Texture transfer based on neural implicit representation</strong></div>
+<div style="font-size:15pt"><strong>Texture Transfer Based on Neural Implicit Representation</strong></div>
 </div>
 <div style="font-size:12pt">Texture synthesize and transfer has been a popular topic
 in recent years, this projects aims to develop a novel method of texture 
@@ -49,7 +49,7 @@ texture to arbitrary target surface. </div>
 
 <br/>
 <div>
-<div style="font-size:15pt"><strong>An approach toward human musculoskeletal system simulation</strong></div>
+<div style="font-size:15pt"><strong>An Approach Toward Human Musculoskeletal System Simulation</strong></div>
 </div>
 <div style="font-size:12pt"> Human musculoskeletal system is a complicated system and is affected 
 by many factors such as muscle strength, bone stiffness, mass, etc. 
@@ -85,6 +85,25 @@ fluids” by Huang, L. etal.</div>
   <img src="../images/ferrofluid.png" width="250" height="170" />
   <img src="../images/magneticline.png" width="250" height="170" /> 
   <img src="../images/particles.png" width="250" height="170" />
+</p>
+
+<br/>
+<div>
+<div style="font-size:15pt"><strong>Anime Art Style Picture Super Resolution Network</strong></div>
+</div>
+<div style="font-size:12pt"> Image Super resolution is a well-studied topic in computer vision, involving 
+mainly the problem of re-obtaining lost information while doing scaling up. 
+This project focuses on the super- resolution of a specific group of images 
+with anime art style, including both denoising and scaling up. Due to the 
+specialness of anime art style, instead of using traditional large-scale 
+deep Convolutional Neural Network, I use a much smaller scale neural 
+network with less layer and trainable parameter but at the same time 
+achieve comparable result with higher efficiency. </div>
+
+[Project Page](https://github.com/jundaz/Anime-art-style-picture-super-resolution-using-CNN/)<br/>
+<p float="left">
+  <img src="../images/ferrofluid.png" width="300"/>
+  <img src="../images/magneticline.png" width="300"/> 
 </p>
 
 <br/>
