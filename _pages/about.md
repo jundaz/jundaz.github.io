@@ -15,7 +15,7 @@ Currently, I'm a senior undergraduate student at the University of Toronto, majo
 
 I’m broadly interested in geometry processing, physics-based animation, computer vision and machine learning application in those 3 fields.
 
-During the third year in undergraduate study I have made a publication related to k-means algorithm. In later years I have worked with Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) on projects in field of geometry processing and Prof. [David Levin](http://142.93.146.228/researchdb/) on projects in field of physics-based animation.
+During the third year in undergraduate study I made a publication related to k-means algorithm. In recent years I have worked with Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) on projects in field of geometry processing and Prof. [David Levin](http://142.93.146.228/researchdb/) on projects in field of physics-based animation.
 
 <br/>
 
@@ -34,10 +34,10 @@ Publications
 Selected Projects
 ======
 <div>
-<div style="font-size:15pt"><strong>Texture Transfer Based on Neural Implicit Representation</strong></div>
+<div style="font-size:15pt"><strong>Feature-Grid Based Texture synthesis and transfer</strong></div>
 </div>
-<div style="font-size:12pt">Texture synthesize and transfer has been a popular topic
-in recent years, this projects aims to develop a novel method of texture 
+<div style="font-size:12pt">Texture synthesise and transfer has been a popular topic
+in recent years, this project aims to develop a novel method of texture 
 synthesis and transfer based on a neural implicit representation of arbitrary 
 object and provide a robust tool that would allow transfering such object as 
 texture to arbitrary target surface. </div> 
@@ -56,11 +56,10 @@ by many factors such as muscle strength, bone stiffness, mass, etc.
 To simulate such system as a whole is very complicated, so is it possible 
 if we start on something simple such as a basic unit of bones and muscle 
 and build the more complex system based on this unit? This project aims 
-to build very simple and basic unit of a Musculoskeletal system and 
-simulate such unit. The model will be based on very simple objects 
-such as mass points, rod, and springs to represent bones and muscle.
-We also applied machine learning method for fast approximation of state 
-of the system.</div>
+to build simple and basic unit of a Musculoskeletal system and simulate 
+such unit. The model will be based on very simple objects such as mass 
+points, rod, and springs to represent bones and muscle. We also applied 
+machine learning method for fast approximation of state of the system.</div>
 [Project Page](https://github.com/jundaz/simple_spring_model/)<br/>
 <p float="left">
   <img src="../images/shrunk.gif" width="250" />
@@ -76,7 +75,7 @@ of the system.</div>
 field. The most significant one is the formation of complex spikes. This 
 shape is usually hard to create by artist in animation. Despite the use in 
 art, ferrofluid can be used in a variety of engineering area due to its 
-physical properties. This project provides a implementation of ferrorfluid
+physical properties. This project provides an implementation of ferrorfluid
 simulation based on paper “On the Accurate Large-scale Simulation of Ferro-
 fluids” by Huang, L. etal.</div>
 
