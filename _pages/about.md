@@ -106,6 +106,20 @@ achieve comparable result with higher efficiency. </div>
 </p>
 
 <br/>
+<div>
+<div style="font-size:15pt"><strong>Biharmonic Distance</strong></div>
+</div>
+<div style="font-size:12pt"> Measuring distances between pairs of points on a 3D surface is a fundamental
+problem in computer graphics and geometric processing. This project provides 
+a implementation of Biharmonic distance method by Y.lipman et.al, </div>
+
+[Project Page](https://github.com/jundaz/CSC419Final)<br/>
+<!-- <p float="left">
+  <img src="../images/quality_50.png" width="300"/>
+  <img src="../images/quality_95.png" width="300"/> 
+</p> -->
+
+<br/>
 
 Contact
 ======
