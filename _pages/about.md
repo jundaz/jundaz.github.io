@@ -109,7 +109,7 @@ achieve comparable result with higher efficiency. </div>
 <div>
 <div style="font-size:15pt"><strong>Biharmonic Distance</strong></div>
 </div>
-<div style="font-size:12pt"> Measuring distances between pairs of points on a 3D surface is a fundamental
+<div style="font-size:12pt"> Measuring distances between pairs of points on a 3D surface is a fundamental
 problem in computer graphics and geometric processing. This project provides 
 a implementation of Biharmonic distance method by Y.lipman et.al, </div>
 
