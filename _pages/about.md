@@ -36,11 +36,12 @@ Selected Projects
 <div>
 <div style="font-size:15pt"><strong>Feature-Grid Based Texture synthesis and transfer</strong></div>
 </div>
-<div style="font-size:12pt">Texture synthesise and transfer has been a popular topic
+<div style="font-size:12pt">Texture synthesis and transfer has been a popular topic
 in recent years, this project aims to develop a novel method of texture 
 synthesis and transfer based on a neural implicit representation of arbitrary 
 object and provide a robust tool that would allow transfering such object as 
-texture to arbitrary target surface. </div> 
+texture to arbitrary target surface. Since this method is based on a 2d feature-
+grid, it allows some interesting computer vision based manipulation.</div> 
 [Project Page(comming soon)]<br/>
 <p float="left">
   <img src="../images/beetles_spike.png" width="340"/>
