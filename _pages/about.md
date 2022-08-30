@@ -11,11 +11,11 @@ redirect_from:
 About me
 ======
 
-Currently, I'm a senior undergraduate student at the University of Toronto, majoring in Computer Science, I will be graduating Fall 2021.
+Currently, I'm a Graduate student at the University of Toronto, Department of Mechanical & Industrial Engineering, pursueing Master of Applied Science degree under supervision of Prof. [Eldan Cohen](https://www.mie.utoronto.ca/faculty_staff/eldan-cohen/)
 
-I’m broadly interested in geometry processing, physics-based animation, computer vision and machine learning application in those 3 fields.
+My main interest of research focuses on sequence model and natural language model.
 
-During the third year in undergraduate study I made a publication related to k-means algorithm. In recent years I have worked with Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) on projects in field of geometry processing and Prof. [David Levin](http://142.93.146.228/researchdb/) on projects in field of physics-based animation.
+During my Undergraduate years I have worked with Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) on projects in field of geometry processing and Prof. [David Levin](http://142.93.146.228/researchdb/) on projects in field of physics-based animation.
 
 <br/>
 
