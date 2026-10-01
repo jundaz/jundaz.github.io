@@ -11,6 +11,10 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
+{% for post in site.talks reversed %}{% unless post.symposium %}
   {% include archive-single-talk.html %}
-{% endfor %}
+{% endunless %}{% endfor %}
+
+{% for post in site.talks reversed %}{% if post.symposium %}
+  {% include archive-single-talk.html %}
+{% endif %}{% endfor %}

@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.publications reversed %}{% unless post.symposium %}
   {% include archive-single.html %}
-{% endfor %}
+{% endunless %}{% endfor %}
+
+{% for post in site.publications reversed %}{% if post.symposium %}
+  {% include archive-single.html %}
+{% endif %}{% endfor %}

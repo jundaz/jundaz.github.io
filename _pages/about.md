@@ -1,127 +1,78 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "Junda Zhao is a PhD candidate at the University of Toronto working on reliable testing and verification for AI coding agents. Seeking a postdoctoral position starting September 2027."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+{% include base_path %}
+
 About me
 ======
 
-Currently, I'm a Graduate student at the University of Toronto, Department of Mechanical & Industrial Engineering, pursueing Master of Applied Science degree under supervision of Prof. [Eldan Cohen](https://www.mie.utoronto.ca/faculty_staff/eldan-cohen/)
+I am a PhD candidate at the University of Toronto working on reliable testing and verification for AI coding agents in production. I am advised by Prof. [Eldan Cohen](https://www.mie.utoronto.ca/faculty_staff/eldan-cohen/) in the [OptiMaL Lab](https://optimal.mie.utoronto.ca/) ([Mechanical & Industrial Engineering](https://www.mie.utoronto.ca/)) and work closely with Prof. [Shurui Zhou](https://www.eecg.toronto.edu/~shuruiz/) (Electrical & Computer Engineering).
 
-My main interest of research focuses on sequence model and natural language model.
+**I am seeking a postdoctoral position starting September 2027.** My [CV (PDF)]({{ base_path }}/files/jundazhao_CV.pdf) and a [three-page research overview]({{ base_path }}/files/zhao-issta2026-doctoral-symposium-paper.pdf) are here. Contact: junda.zhao (at) mail.utoronto.ca.
+{: .notice--success}
 
-During my Undergraduate years I have worked with Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) on projects in field of geometry processing and Prof. [David Levin](http://142.93.146.228/researchdb/) on projects in field of physics-based animation.
+Software developers have long quoted Linus Torvalds: "Talk is cheap. Show me the code." With AI coding agents, code itself has become cheap: agents write implementations, fix bugs, and generate tests in seconds. The harder request is now "show me it works". When an agent says "the job is completed", what evidence should we require before we take its word, and how can that evidence be produced reliably and at scale?
 
-<br/>
+My research explores this question through software testing and verification. Our work has shown that LLM-based test generation is prone to being misguided by buggy code, and that the proxy metrics widely used to evaluate it can fail to reflect how effective the generated tests really are; the latter received an ACM SIGSOFT Distinguished Paper Award at ISSTA 2026. One approach I focus on is specification-based testing: how to reliably recover what code is supposed to do, how to turn that intent into tests that expose bugs, and how such validation can fit into real development workflows and improve how people collaborate with AI coding tools.
 
-Publications
+Earlier, I worked on code summarization with pre-trained language models, and as an undergraduate on geometry processing and physics-based animation with Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) and Prof. [David Levin](https://www.diwlevin.com/).
+
+News
 ======
-<img width="175" align="left" src="../images/cluster.png"/>
-&nbsp; __A New Fuzzy Belonging-based Multi-view K-means Clustering Algorithm__<br/>
-&nbsp;  __Junda Zhao__, Weiling Cai, Yizhen Ge, Lijuan Zhang<br/>
-&nbsp;  *IEEE 10th IEMCON 2019*<br/>
-&nbsp;  [Paper](../files/A_New_Fuzzy_Belonging-based_Multi-view_K-means_Clustering_Algorithm.pdf)<br/> 
 
-<br/>
+* **Oct 2026.** At [SPLASH/ISSTA 2026](https://conf.researchr.org/home/issta-2026) in Oakland: two research talks (Oct 9), two posters (Oct 7), and a Doctoral Symposium talk (Oct 4). Happy to meet.
+* **Sep 2026.** Our ISSTA 2026 replicability study received an **ACM SIGSOFT Distinguished Paper Award**.
+* **Jul 2026.** Two papers accepted at ISSTA 2026; preprints and replication packages are public.
+* **Nov 2025.** Presented Variational Prefix Tuning at ASE 2025 (Journal-First), Seoul.
+* **May 2025.** Variational Prefix Tuning published in the Journal of Systems and Software.
 
-
-
-Selected Projects
+Selected publications
 ======
-<div>
-<div style="font-size:15pt"><strong>Feature-Grid Based Texture synthesis and transfer</strong></div>
-</div>
-<div style="font-size:12pt">Texture synthesis and transfer has been a popular topic
-in recent years, this project aims to develop a novel method of texture 
-synthesis and transfer based on a neural implicit representation of arbitrary 
-object and provide a robust tool that would allow transfering such object as 
-texture to arbitrary target surface. Since this method is based on a 2d feature-
-grid, it allows some interesting computer vision based manipulation.</div> 
-[Project Page(comming soon)]<br/>
-<p float="left">
-  <img src="../images/beetles_spike.png" width="340"/>
-  <img src="../images/beetles_rabbit.png" width="340" /> 
-</p>
 
-<br/>
-<div>
-<div style="font-size:15pt"><strong>An Approach Toward Human Musculoskeletal System Simulation</strong></div>
-</div>
-<div style="font-size:12pt"> Human musculoskeletal system is a complicated system and is affected 
-by many factors such as muscle strength, bone stiffness, mass, etc. 
-To simulate such system as a whole is very complicated, so is it possible 
-if we start on something simple such as a basic unit of bones and muscle 
-and build the more complex system based on this unit? This project aims 
-to build simple and basic unit of a Musculoskeletal system and simulate 
-such unit. The model will be based on very simple objects such as mass 
-points, rod, and springs to represent bones and muscle. We also applied 
-machine learning method for fast approximation of state of the system.</div>
-[Project Page](https://github.com/jundaz/simple_spring_model/)<br/>
-<p float="left">
-  <img src="../images/shrunk.gif" width="250" />
-  <img src="../images/stretch.gif" width="250" /> 
-  <img src="../images/twisted.gif" width="250" />
-</p>
+**Do Coverage and Mutation Scores of LLM-Generated Test Suites Correlate with Their Effectiveness? (Replicability Study)**<br/>
+**Junda Zhao**, Shurui Zhou, Eldan Cohen<br/>
+*ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)*<br/>
+**ACM SIGSOFT Distinguished Paper Award**<br/>
+On 100,000+ LLM-generated tests, coverage and mutation scores track bug detection only when the code can be assumed bug-free.<br/>
+[arXiv](https://arxiv.org/abs/2607.22880) · [Replication package](https://github.com/drixs2050/Cov_mut_bug_detect_correlation) · [Slides]({{ base_path }}/files/zhao-issta2026-coverage-mutation-slides.pdf) · [Poster]({{ base_path }}/files/zhao-issta2026-coverage-mutation-poster.pdf)
 
-<br/>
-<div>
-<div style="font-size:15pt"><strong>Accurate Large Scale Ferrofluids Simulation</strong></div>
-</div>
-<div style="font-size:12pt"> Ferrofluid has a lot of interesting appearance when placed under a magnetic 
-field. The most significant one is the formation of complex spikes. This 
-shape is usually hard to create by artist in animation. Despite the use in 
-art, ferrofluid can be used in a variety of engineering area due to its 
-physical properties. This project provides an implementation of ferrorfluid
-simulation based on paper “On the Accurate Large-scale Simulation of Ferro-
-fluids” by Huang, L. etal.</div>
+**Evaluating and Mitigating the Misguidance Effect of Buggy Code in LLM-Generated Unit Tests**<br/>
+**Junda Zhao**, Shurui Zhou, Eldan Cohen<br/>
+*ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)*<br/>
+Buggy code steers LLMs toward tests that certify the bug; generating tests from a recovered specification instead counters this.<br/>
+[arXiv](https://arxiv.org/abs/2607.22883) · [Replication package](https://github.com/drixs2050/EvalAndMitigate) · [Slides]({{ base_path }}/files/zhao-issta2026-misguidance-slides.pdf) · [Poster]({{ base_path }}/files/zhao-issta2026-misguidance-poster.pdf)
 
-[Project Page](https://github.com/jundaz/Accurate-Large-Scale-Ferrofluids/)<br/>
-<p float="left">
-  <img src="../images/ferrofluid.png" width="250" height="170" />
-  <img src="../images/magneticline.png" width="250" height="170" /> 
-  <img src="../images/particles.png" width="250" height="170" />
-</p>
+**Variational Prefix Tuning for Diverse and Accurate Code Summarization Using Pre-trained Language Models**<br/>
+**Junda Zhao**, Yuliang Song, Eldan Cohen<br/>
+*Journal of Systems and Software, 2025*<br/>
+Parameter-efficient tuning that lets code language models produce diverse yet accurate summaries.<br/>
+[Paper](https://doi.org/10.1016/j.jss.2025.112493) · [Code](https://github.com/drixs2050/VPT) · [Slides]({{ base_path }}/files/zhao-ase2025-vpt-slides.pdf) · [Poster]({{ base_path }}/files/zhao-ase2025-vpt-poster.pdf)
 
-<br/>
-<div>
-<div style="font-size:15pt"><strong>Anime Art Style Picture Super Resolution Network</strong></div>
-</div>
-<div style="font-size:12pt"> Image Super resolution is a well-studied topic in computer vision, involving 
-mainly the problem of re-obtaining lost information while doing scaling up. 
-This project focuses on the super- resolution of a specific group of images 
-with anime art style, including both denoising and scaling up. Due to the 
-specialness of anime art style, instead of using traditional large-scale 
-deep Convolutional Neural Network, I use a much smaller scale neural 
-network with less layer and trainable parameter but at the same time 
-achieve comparable result with higher efficiency. </div>
+The full list is on the [publications page]({{ base_path }}/publications/) and on [Google Scholar](https://scholar.google.ca/citations?hl=en&user=B57wJ9IAAAAJ).
 
-[Project Page](https://github.com/jundaz/Anime-art-style-picture-super-resolution-using-CNN/)<br/>
-<p float="left">
-  <img src="../images/quality_50.png" width="300"/>
-  <img src="../images/quality_95.png" width="300"/> 
-</p>
+Talks and posters
+======
 
-<br/>
-<div>
-<div style="font-size:15pt"><strong>Biharmonic Distance</strong></div>
-</div>
-<div style="font-size:12pt"> Measuring distances between pairs of points on a 3D surface is a fundamental
-problem in computer graphics and geometric processing. This project provides 
-a implementation of Biharmonic distance method by Y.lipman et.al, </div>
+* **Do Coverage and Mutation Scores of LLM-Generated Test Suites Correlate with Their Effectiveness? (Replicability Study).** Research-track talk, ISSTA 2026, Oakland, California, October 9, 2026, with a poster at the SPLASH/ISSTA poster session on October 7. [Slides]({{ base_path }}/files/zhao-issta2026-coverage-mutation-slides.pdf) · [Poster]({{ base_path }}/files/zhao-issta2026-coverage-mutation-poster.pdf)
+* **Evaluating and Mitigating the Misguidance Effect of Buggy Code in LLM-Generated Unit Tests.** Research-track talk, ISSTA 2026, Oakland, California, October 9, 2026, with a poster at the SPLASH/ISSTA poster session on October 7. [Slides]({{ base_path }}/files/zhao-issta2026-misguidance-slides.pdf) · [Poster]({{ base_path }}/files/zhao-issta2026-misguidance-poster.pdf)
+* **Variational Prefix Tuning for Diverse and Accurate Code Summarization Using Pre-trained Language Models.** Journal-First presentation and poster, ASE 2025, Seoul, South Korea, November 18, 2025. [Slides]({{ base_path }}/files/zhao-ase2025-vpt-slides.pdf) · [Poster]({{ base_path }}/files/zhao-ase2025-vpt-poster.pdf)
+* **Accurate Specification Recovery for Effective Test Generation.** Doctoral Symposium talk, SPLASH/ISSTA 2026, Oakland, California, October 4, 2026. [Paper]({{ base_path }}/files/zhao-issta2026-doctoral-symposium-paper.pdf)
 
-[Project Page](https://github.com/jundaz/CSC419Final)<br/>
-<!-- <p float="left">
-  <img src="../images/quality_50.png" width="300"/>
-  <img src="../images/quality_95.png" width="300"/> 
-</p> -->
+Earlier projects
+======
 
-<br/>
+Undergraduate work in graphics, simulation, and vision is on the [projects page]({{ base_path }}/projects/).
 
 Contact
 ======
-junda.zhao (at) mail.utoronto.ca
+
+* Email: junda.zhao (at) mail.utoronto.ca
+* [Google Scholar](https://scholar.google.ca/citations?hl=en&user=B57wJ9IAAAAJ) · [GitHub](https://github.com/drixs2050) · [ORCID](https://orcid.org/0000-0003-4978-4128)
+* Department of Mechanical & Industrial Engineering, University of Toronto, Toronto, ON, Canada

@@ -1,2 +1,4 @@
 _site/
-
+.jekyll-cache/
+# original CV draft contains a home address and phone number: keep it out of the public repo
+jundazhao_CV (*).docx
