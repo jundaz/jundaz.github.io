@@ -11,9 +11,9 @@ title                    : "Junda Zhao"
 title_separator          : "-"
 name                     : &name "Junda Zhao"
 description              : &description "Junda Zhao is a PhD candidate at the University of Toronto working on reliable testing and verification for AI coding agents in production. Seeking a postdoctoral position starting September 2027."
-url                      : https://drixs2050.github.io # the base hostname & protocol for your site
-baseurl                  : "/jundaz.github.io" # the site is served as a GitHub *project* page at https://drixs2050.github.io/jundaz.github.io/ ; set to "" if the repo is renamed to drixs2050.github.io
-repository               : "drixs2050/jundaz.github.io"
+url                      : https://jundaz.github.io # the base hostname & protocol for your site
+baseurl                  : "" # user site of the jundaz organization, served at the root of https://jundaz.github.io/
+repository               : "jundaz/jundaz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
