@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Seeking a postdoctoral position starting September 2027. [CV (PDF)]({{ base_path }}/files/jundazhao_CV.pdf) · junda.zhao (at) mail.utoronto.ca
+Seeking a postdoctoral position starting in late 2027. [CV (PDF)]({{ base_path }}/files/jundazhao_CV.pdf) · junda.zhao (at) mail.utoronto.ca
 {: .notice--success}
 
 Education

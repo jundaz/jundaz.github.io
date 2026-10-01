@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Junda Zhao is a PhD candidate at the University of Toronto working on reliable testing and verification for AI coding agents. Seeking a postdoctoral position starting September 2027."
+excerpt: "Junda Zhao is a PhD candidate at the University of Toronto working on reliable testing and verification for AI coding agents. Seeking a postdoctoral position starting in late 2027."
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ About me
 
 I am a PhD candidate at the University of Toronto working on reliable testing and verification for AI coding agents in production. I am advised by Prof. [Eldan Cohen](https://www.mie.utoronto.ca/faculty_staff/eldan-cohen/) in the [OptiMaL Lab](https://optimal.mie.utoronto.ca/) ([Mechanical & Industrial Engineering](https://www.mie.utoronto.ca/)) and work closely with Prof. [Shurui Zhou](https://www.eecg.toronto.edu/~shuruiz/) (Electrical & Computer Engineering).
 
-**I am seeking a postdoctoral position starting September 2027.** My [CV (PDF)]({{ base_path }}/files/jundazhao_CV.pdf) and a [three-page research overview]({{ base_path }}/files/zhao-issta2026-doctoral-symposium-paper.pdf) are here. Contact: junda.zhao (at) mail.utoronto.ca.
+**I am seeking a postdoctoral position starting in late 2027.** My [CV (PDF)]({{ base_path }}/files/jundazhao_CV.pdf) and a [three-page research overview]({{ base_path }}/files/zhao-issta2026-doctoral-symposium-paper.pdf) are here. Contact: junda.zhao (at) mail.utoronto.ca.
 {: .notice--success}
 
 Software developers have long quoted Linus Torvalds: "Talk is cheap. Show me the code." With AI coding agents, code itself has become cheap: agents write implementations, fix bugs, and generate tests in seconds. The harder request is now "show me it works". When an agent says "the job is completed", what evidence should we require before we take its word, and how can that evidence be produced reliably and at scale?

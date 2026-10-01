@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Junda Zhao"
 title_separator          : "-"
 name                     : &name "Junda Zhao"
-description              : &description "Junda Zhao is a PhD candidate at the University of Toronto working on reliable testing and verification for AI coding agents in production. Seeking a postdoctoral position starting September 2027."
+description              : &description "Junda Zhao is a PhD candidate at the University of Toronto working on reliable testing and verification for AI coding agents in production. Seeking a postdoctoral position starting in late 2027."
 url                      : https://jundaz.github.io # the base hostname & protocol for your site
 baseurl                  : "" # user site of the jundaz organization, served at the root of https://jundaz.github.io/
 repository               : "jundaz/jundaz.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Junda Zhao"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate, University of Toronto. Testing and verification for AI coding agents. Seeking a postdoc from Sept 2027."
+  bio              : "PhD candidate, University of Toronto. Testing and verification for AI coding agents. Seeking a postdoc from late 2027."
   location         : "Toronto, ON"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
