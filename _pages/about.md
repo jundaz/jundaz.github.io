@@ -74,5 +74,5 @@ Contact
 ======
 
 * Email: junda.zhao (at) mail.utoronto.ca
-* [Google Scholar](https://scholar.google.ca/citations?hl=en&user=B57wJ9IAAAAJ) · [GitHub](https://github.com/drixs2050) · [ORCID](https://orcid.org/0000-0003-4978-4128)
+* [Google Scholar](https://scholar.google.ca/citations?hl=en&user=B57wJ9IAAAAJ) · [GitHub](https://github.com/drixs2050) · [ORCID](https://orcid.org/0000-0003-4978-4128) · [LinkedIn](https://www.linkedin.com/in/junda-zhao-96b821187/)
 * Department of Mechanical & Industrial Engineering, University of Toronto, Toronto, ON, Canada
