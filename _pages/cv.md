@@ -42,7 +42,7 @@ Research experience
   * Specification-based testing: recovering the intended behavior of code that may be buggy, and generating tests from it
   * Evaluation of LLM-generated tests and of the metrics used to judge them
   * Code summarization with pre-trained language models of code
-  * Public replication packages for published work
+  * Improving the reliability of testing and verification when people work with AI-assisted development tools
 * 2021 to 2022: Research Assistant, Dynamic Graphics Project (DGP) Lab, University of Toronto
   * Geometric stylization and feature-grid based texture synthesis and transfer
 * Undergraduate projects with Prof. Alec Jacobson (geometry processing) and Prof. David Levin (physics-based animation)
