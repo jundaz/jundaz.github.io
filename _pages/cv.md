@@ -62,13 +62,6 @@ Teaching
 * Teaching Assistant, MIE370: Introduction to Machine Learning (undergraduate course), University of Toronto, Fall 2025
 * Teaching Assistant, MIE350: Design and Analysis of Information Systems (undergraduate course), University of Toronto, Fall 2022
 
-Skills
-======
-* Software testing and analysis: LLM-based test generation and evaluation on Defects4J; coverage and mutation analysis with JaCoCo, PIT, and CodeCover
-* Machine learning: PyTorch, NumPy, OpenCV, large language models, deep generative models, statistical analysis and modeling
-* Programming: Python, C++ (Eigen, libigl), MATLAB; Java for test generation and evaluation (JUnit, Defects4J)
-* Languages: fluent in English and Mandarin
-
 Professional experience
 ======
 * 2019 to 2020: Junior Identity and Access Management Analyst, Information Technology Services, University of Toronto
