@@ -24,6 +24,7 @@ Education
 Awards
 ======
 * ACM SIGSOFT Distinguished Paper Award, ISSTA 2026, for *Do Coverage and Mutation Scores of LLM-Generated Test Suites Correlate with Their Effectiveness? (Replicability Study)*
+* Ontario Graduate Scholarship (OGS), 2024 to 2025
 
 Publications
 ======
