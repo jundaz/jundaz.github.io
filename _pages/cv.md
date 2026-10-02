@@ -38,9 +38,11 @@ Publications
 Research experience
 ======
 * 2022 to present: PhD candidate, OptiMaL Lab, University of Toronto
-  * LLM-based unit test generation on Defects4J, the misguidance effect of buggy code, specification recovery, and the validity of coverage and mutation metrics for LLM-generated tests
-  * Parameter-efficient methods for diverse and accurate code summarization with pre-trained language models of code
-  * Public replication packages for both ISSTA 2026 papers, archived on Zenodo (DOI 10.5281/zenodo.21429528 and 10.5281/zenodo.21428153)
+  * Reliable testing and verification for AI coding agents, with a focus on LLM-based unit test generation
+  * Specification-based testing: recovering the intended behavior of code that may be buggy, and generating tests from it
+  * Evaluation of LLM-generated tests and of the metrics used to judge them
+  * Code summarization with pre-trained language models of code
+  * Public replication packages for published work
 * 2021 to 2022: Research Assistant, Dynamic Graphics Project (DGP) Lab, University of Toronto
   * Geometric stylization and feature-grid based texture synthesis and transfer
 * Undergraduate projects with Prof. Alec Jacobson (geometry processing) and Prof. David Levin (physics-based animation)
