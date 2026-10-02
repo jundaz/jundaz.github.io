@@ -13,7 +13,7 @@ redirect_from:
 About me
 ======
 
-I am a PhD candidate at the University of Toronto working on reliable testing and verification for AI coding agents in production. I am advised by Prof. [Eldan Cohen](https://www.mie.utoronto.ca/faculty_staff/eldan-cohen/) in the [OptiMaL Lab](https://optimal.mie.utoronto.ca/) ([Mechanical & Industrial Engineering](https://www.mie.utoronto.ca/)) and work closely with Prof. [Shurui Zhou](https://www.eecg.toronto.edu/~shuruiz/) (Electrical & Computer Engineering).
+I am a PhD candidate at the University of Toronto working on reliable testing and verification for AI coding agents. I am advised by Prof. [Eldan Cohen](https://www.mie.utoronto.ca/faculty_staff/eldan-cohen/) in the [OptiMaL Lab](https://optimal.mie.utoronto.ca/) ([Mechanical & Industrial Engineering](https://www.mie.utoronto.ca/)) and work closely with Prof. [Shurui Zhou](https://www.eecg.toronto.edu/~shuruiz/) (Electrical & Computer Engineering).
 
 **I am seeking a postdoctoral position starting in late 2027.** Here is my [CV (PDF)]({{ base_path }}/files/jundazhao_CV.pdf). Contact: junda.zhao (at) mail.utoronto.ca.
 {: .notice--success}
